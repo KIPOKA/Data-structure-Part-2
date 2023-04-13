@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16cdd39b-61d8-407d-8d1e-45786372b1a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedClass.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StackExemple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackExemple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681289741882</updated>
-      <workItem from="1681289743844" duration="14320000" />
+      <workItem from="1681289743844" duration="18332000" />
     </task>
     <servers />
   </component>
